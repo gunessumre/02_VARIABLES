@@ -1,0 +1,14 @@
+/Users/gunessumre/RiderProjects/engindemirogC#Egitim/02_VARIABLES/_02_Variables/bin/Debug/net9.0/_02_Variables
+/Users/gunessumre/RiderProjects/engindemirogC#Egitim/02_VARIABLES/_02_Variables/bin/Debug/net9.0/_02_Variables.deps.json
+/Users/gunessumre/RiderProjects/engindemirogC#Egitim/02_VARIABLES/_02_Variables/bin/Debug/net9.0/_02_Variables.runtimeconfig.json
+/Users/gunessumre/RiderProjects/engindemirogC#Egitim/02_VARIABLES/_02_Variables/bin/Debug/net9.0/_02_Variables.dll
+/Users/gunessumre/RiderProjects/engindemirogC#Egitim/02_VARIABLES/_02_Variables/bin/Debug/net9.0/_02_Variables.pdb
+/Users/gunessumre/RiderProjects/engindemirogC#Egitim/02_VARIABLES/_02_Variables/obj/Debug/net9.0/_02_Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunessumre/RiderProjects/engindemirogC#Egitim/02_VARIABLES/_02_Variables/obj/Debug/net9.0/_02_Variables.AssemblyInfoInputs.cache
+/Users/gunessumre/RiderProjects/engindemirogC#Egitim/02_VARIABLES/_02_Variables/obj/Debug/net9.0/_02_Variables.AssemblyInfo.cs
+/Users/gunessumre/RiderProjects/engindemirogC#Egitim/02_VARIABLES/_02_Variables/obj/Debug/net9.0/_02_Variables.csproj.CoreCompileInputs.cache
+/Users/gunessumre/RiderProjects/engindemirogC#Egitim/02_VARIABLES/_02_Variables/obj/Debug/net9.0/_02_Variables.dll
+/Users/gunessumre/RiderProjects/engindemirogC#Egitim/02_VARIABLES/_02_Variables/obj/Debug/net9.0/refint/_02_Variables.dll
+/Users/gunessumre/RiderProjects/engindemirogC#Egitim/02_VARIABLES/_02_Variables/obj/Debug/net9.0/_02_Variables.pdb
+/Users/gunessumre/RiderProjects/engindemirogC#Egitim/02_VARIABLES/_02_Variables/obj/Debug/net9.0/_02_Variables.genruntimeconfig.cache
+/Users/gunessumre/RiderProjects/engindemirogC#Egitim/02_VARIABLES/_02_Variables/obj/Debug/net9.0/ref/_02_Variables.dll

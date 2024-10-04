@@ -1,0 +1,4 @@
+/Users/gunessumre/RiderProjects/engindemirogC#Egitim/02_VARIABLES/02_VARIABLES/obj/Debug/net9.0/02_VARIABLES.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunessumre/RiderProjects/engindemirogC#Egitim/02_VARIABLES/02_VARIABLES/obj/Debug/net9.0/02_VARIABLES.AssemblyInfoInputs.cache
+/Users/gunessumre/RiderProjects/engindemirogC#Egitim/02_VARIABLES/02_VARIABLES/obj/Debug/net9.0/02_VARIABLES.AssemblyInfo.cs
+/Users/gunessumre/RiderProjects/engindemirogC#Egitim/02_VARIABLES/02_VARIABLES/obj/Debug/net9.0/02_VARIABLES.csproj.CoreCompileInputs.cache
